@@ -1,0 +1,33 @@
+
+@media (max-width: 1199.98px) {
+    .bg-land{
+        background-size: cover;
+    }
+    .footer {
+        margin-top: 63px;
+        padding-bottom: 116px;
+    }
+}
+
+
+@media (max-width: 991.98px) {
+
+}
+
+@media (max-width: 767.98px) {
+
+}
+
+
+@media (max-width: 575.98px) {
+
+}
+
+@media (max-width: 380px) {
+    .logo {
+        width: 86%;
+        margin: auto;
+            margin-bottom: auto;
+    }
+
+}
