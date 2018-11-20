@@ -290,7 +290,7 @@ hr{
     .rundown{
         background: url(../../img/rundown-mobile.png) no-repeat top center;
         background-size: contain;
-        height: 2920px; 
+        min-height: 2430px;
     }
    
 }
