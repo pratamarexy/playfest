@@ -21,6 +21,12 @@
     font-weight: bold;
     font-style: normal;
 }
+a.head-text{
+    text-decoration: none;
+}
+a.head-text:hover{
+    color:#ff4900;
+}
 
 body{
     font-family: 'Futura PT';
